@@ -23,7 +23,7 @@ Before installing this extension, ensure you have the necessary system packages 
       
 * On Debian:
 
-      $ sudo apt install gir1.2-gtop-2.0 gir1.2-nm-1.0 gir1.2-clutter-1.0
+      $ sudo apt install gir1.2-gtop-2.0 gir1.2-networkmanager-1.0 
 
 * On Fedora:
 
